@@ -1,0 +1,67 @@
+# Node.js
+node_modules/
+
+# Build output
+/dist
+/build
+/.next
+/public/build
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# NPM packages
+package-lock.json
+yarn.lock
+
+# Tailwind CSS build files
+*.css.map
+
+# OS-specific files
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Miscellaneous
+*.swp
+*.swo
+*.swn
+
+# Coverage folder (for testing tools like Jest)
+coverage/
+
+# NPM package manager config
+.npmrc
+
+# Logs
+/logs
+
+# Temporary files
+*.bak
+*.tmp
+
+# Git directories
+.git/

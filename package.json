@@ -1,0 +1,14 @@
+{
+  "name": "ambel",
+  "private": true,
+  "workspaces": [
+    "project1",
+    "project2",
+    "shared"
+  ],
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.0.1"
+  }
+}
